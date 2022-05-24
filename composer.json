@@ -1,5 +1,6 @@
 {
-    "name": "irfankhan-art/Test",
-    "description": "Test",
-    "type": "drupal-module"
+    "name": "irfanp/test",
+    "type": "drupal-module",
+    "minimum-stability": "dev",
+    "require": {}
 }
