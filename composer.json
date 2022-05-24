@@ -1,6 +1,6 @@
 {
     "name": "irfanp/test",
-    "type": "drupal-module",
+    "type": "project",
     "minimum-stability": "dev",
     "require": {}
 }
